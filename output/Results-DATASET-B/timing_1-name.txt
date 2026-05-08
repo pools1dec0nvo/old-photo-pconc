@@ -1,0 +1,4 @@
+Tempo sequencial: 0.011404000 s
+Tempo paralelo: 37.492204000 s
+Tempo total: 37.503611000 s
+Thread 0 tempo: 37.439472000 s
